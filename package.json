@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "croxydb": "^0.0.7",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.3",
+    "ms": "^2.1.3"
+  }
+}

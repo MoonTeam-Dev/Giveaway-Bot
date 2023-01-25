@@ -54,5 +54,5 @@ fs.readdir('./cmds/', (err, files) => {
   });
 });
 
-client.login('MTAxMzYwNjAyMTMwMzkwNjM5Ng.GDYhnS.vr-qxAaB3zTwfVf87oolFKg1BOhqs8G9Bvs9d0');
+client.login('your token');
 require("http").createServer((req, res) => res.end("Put This Link In Uptimerobot ↑")).listen(process.env.PORT || 8080)

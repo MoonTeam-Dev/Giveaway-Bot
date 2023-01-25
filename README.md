@@ -14,7 +14,7 @@
 
 <div align="left">
 <img src="https://cdn.discordapp.com/attachments/931125155621666836/1067764117374509056/link.png" align="left" width="20" height="20"/>
-<h6>commands: start, reroll, end</h6>
+<h6>commands: help, start, reroll, end.</h6>
 </div>
 
 <div align="left">
